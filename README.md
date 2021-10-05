@@ -1,4 +1,3 @@
-<h1>Method                         Nimani taqqoslaydi?</h1>
 <ol>
 <li><pre>assertEqual(a, b)              a == b</pre></li>
 <li><pre>assertNotEqual(a, b)           a != b</pre></li>
